@@ -34,6 +34,12 @@ SITJUDICIAL
 │ ├── services/
 │ └── app.js
 │
+├── postman/
+│   └── SIT Judicial API.postman_collection.json
+│
+└── tests/
+│   └── casos_prueba_backend_sit_judicial.xlsx
+│
 ├── database.sql
 ├── docker-compose.yml
 ├── Dockerfile

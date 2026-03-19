@@ -288,10 +288,6 @@ Los casos cubren:
 
 # Autor
 
-Proyecto desarrollado como trabajo práctico para la materia **Práctica Profesionalizante I**  
-Tecnicatura Superior en Desarrollo de Software  
-Instituto de Estudios Superiores de Santa Fe
-
 Autor: **Marcos Suarez**
 
 ---
